@@ -1,4 +1,3 @@
-````markdown
 # 🤟 SignTranslator - Intérprete de Lenguaje de Señas en Tiempo Real
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
