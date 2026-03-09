@@ -219,7 +219,7 @@ README.md
 
 # 👨‍💻 Autor
 
-**José Miguel Rodríguez**
+**José Miguel Ruiz Marquez**
 
 GitHub
 [https://github.com/Jose-MiguelRz](https://github.com/Jose-MiguelRz)
